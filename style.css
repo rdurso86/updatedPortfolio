@@ -1,3 +1,12 @@
+body {
+    background-color: #000000;
+}
+
+.nav-wrapper {
+    background-color: #000000;
+    font-family: "Orbitron";
+}
+
 .logo {
     height: 55px;
     padding-left: 6px;
@@ -8,6 +17,21 @@
     width: 100%;
 }
 
-.h {
-    font-family: 'Press Start 2P', ;
+h1, h2, h3 {
+    color: #ffffff;
+    font-family: "Orbitron";
+    font-size: 3rem;
 }
+
+h1 {
+    animation-delay: 1s;
+}
+
+h2 {
+    animation-delay: 2s;
+}
+
+h3 {
+    animation-delay: 3s;
+}
+
