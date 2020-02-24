@@ -79,14 +79,17 @@ h3 {
 .fa-github {
     animation-delay: 4s;
     padding: 1rem;
+    color: #ffffff;
 }
 
 .fa-linkedin {
     animation-delay: 4.25s; 
-    padding: 1rem;  
+    padding: 1rem;
+    color: #ffffff; 
 }
 
 .fa-clipboard {
     animation-delay: 4.5s;
     padding: 1rem;
+    color: #ffffff;
 }
